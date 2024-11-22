@@ -10,14 +10,14 @@ pip3 install -r requirements.txt
 ## Usage
 1. To train the model
 ```
-python your_script.py --root_dir /path/to/dataset --checkpoint_path /path/to/save/weights.pth
+python train.py --root_dir /path/to/dataset --checkpoint_path /path/to/save/weights.pth
 
 ```
 
 2. To run inference on the pre-trained model
 
 ```
-python inference_script.py --model_path /path/to/
+python inference.py --model_path /path/to/
 
 
 ```
