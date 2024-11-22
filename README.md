@@ -17,7 +17,7 @@ python train.py --root_dir /path/to/dataset --checkpoint_path /path/to/save/weig
 2. To run inference on the pre-trained model
 
 ```
-python inference.py --model_path /path/to/
+python inference.py --model_path /path/to/weights.pth
 
 
 ```
