@@ -1,4 +1,12 @@
 # Sereact-Coding-Challenge
+
+## Files
+1. Documentation.pdf contains information about the code regarding data flow, architecture etc.
+2. Results has some visualizations of the predicted masks and bounding boxes.
+
+
+
+
 ## Installation 
 1. Clone the repository
 2. Install Dependencies
